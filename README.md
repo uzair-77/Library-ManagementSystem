@@ -127,7 +127,7 @@ Available Books:
 1. Save the code in a file named `books.py`.
 2. Run the program using the command:
    ```bash
-   python library_management_system.py
+   books.py
    ```
 
 3. Follow the prompts to interact with the system.
